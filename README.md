@@ -1,2 +1,4 @@
 # Met-Signal
-Changes the color of the lights based on the weather conditions outside
+
+A small script which controls the state and color of my phillips hue bulbs based on the weather conditions returned by the Met Office API.
+
